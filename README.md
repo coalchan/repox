@@ -1,3 +1,5 @@
+:dist 目录已经有编译后的 jar 包，可以直接使用！
+
 :exclamation: 第一个 2.12 版发布，assembly 包减小了近 5M（11.8%）
 
 :exclamation: 2016年5月27日，Repox 公服出口带宽升至2M
